@@ -2,6 +2,8 @@
 
 Retrouvez les entrées permettant de récupérer le flag.
 
+Fichier : [shuffleMe](shuffleMe)
+
 
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
@@ -9,9 +11,6 @@ Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 Origine : [ShuffleMe](https://hackropole.fr/fr/challenges/reverse/fcsc2021-reverse-shuffle-me/)
 
 
-
-## Connectez vous
-> http://localhost
 
 
 -----------
